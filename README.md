@@ -1,7 +1,7 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ## Создание «информационной системы для предварительного бронирования билетов».
-- Ссылка на страницу проекта: https://github.com/Digitamax-group/js-cp-diploma-MK
+- Ссылка на страницу проекта: https://digitamax-group.github.io/js-cp-diploma-MK/
 - Стэк технологий: HTML, CSS, Bootstrap, JavaScript, Git;
 
 
